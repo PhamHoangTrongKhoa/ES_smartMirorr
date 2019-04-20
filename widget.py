@@ -3,7 +3,7 @@ import tkinter as tk
 import socket
 import requests as req
 from random import randint
-import json
+import jsonaa
 def day_of_week(day_in_week):
     if (day_in_week == 1 ):
         return 'Monday'
